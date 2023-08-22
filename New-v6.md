@@ -1,9 +1,10 @@
 {
-"Title": "#توجه",
-"Description": "سلام ، خودتو دوست داشته باش ❤️",
-"Link": "tg://resolve?domain=Vpn_Shield",
-"ColorWave": "#64dd17",
-"ColorWaveTwo": "#4DD0E1",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Farsroid_Club",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -13,12 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
+"Cancellable": "false",
 "MessageID": "1",
-"ShowTime": "10",
-"Button": "عضویت",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
 "ButtonCancell": " بعدا ",
-"Closure": "true",
+"Closure": "false",
 "Show": "on"
 }
-
